@@ -3,7 +3,7 @@
 Author: Daniel Passos (dpassos)   
 Level: Beginner   
 Technologies: Java, Android   
-Summary: A basic example of Push : Registrating and receiving messages.   
+Summary: A basic example of Push : Registring and receiving messages.   
 Target Product: Mobile   
 Product Versions: MP 1.0
 Source: https://github.com/aerogear/aerogear-push-helloworld/android   
